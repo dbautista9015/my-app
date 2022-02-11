@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.homeBG {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('./images/IronManHomeBackground.jpg');
+  height: 100vh;
+}
+
+.aboutBG {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('./images/IronManAboutBackground.png');
+  height: 100vh;
+}
+
+.inspirationBG {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('./images/IronManInspirationBackground.jpeg');
+  height: 100vh;
+}
+
+.bestWorksBG {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('./images/IronManBestWorksBackground.jpeg');
+  height: 100vh;
+}
